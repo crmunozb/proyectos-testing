@@ -88,4 +88,4 @@ Esta refactorización ayudó a:
 - Reducir el tamaño de procesar_archivo_csv en más de 70%.
 - Mejorar el mantenimiento futuro ante cambios en el formato del CSV o en la validación de datos.
 
-**Conclusión:** ¡El código ahora es mucho más ordenado, entendible y profesional!
+**Conclusión:** El código ahora esta mucho más ordenado, entendible y profesional
